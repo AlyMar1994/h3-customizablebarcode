@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
+	"id": "am1994.customizablebarcode",
+	"name": "Aly's Customizable Barcode",
+	"description": "Some say tattoos are permanent - 47 begs to differ.  Between its design changing multiple different times across all the Hitman games, even slicing it in half, 47's barcode never stays the same.  This mod allows you to select any barcode design from any Hitman game.",
+	"authors": ["AlyMar1994"],
 	"frameworkVersion": "2.25.1"
 }

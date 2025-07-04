@@ -1,0 +1,24 @@
+TEMP: (DEFAULT)
+- 00537D16B5CE7286 (head_47)
+
+-- TEXT:
+--- 5F 00D247582859CA87 (head_47_s3_diffuse)
+---- 9F 007B3B5C90C8B81F (head_47_s3_diffuse_mip)
+--- 5F 007D850436B0A092 (head_47_s3_specular)
+---- 9F 001CBA4C3409AE9C (head_47_s3_specular_mip)
+--- 5F 00D20CA72E352D16 (head_47_s3_normal)
+---- 9F 00A22FABA49C34C3 (head_47_s3_normal_mip)
+
+
+TEMP: (KRUGER)
+- 00AF3E9B78AAC871 (outfit_unique_helmutkruger_m_heroa_v0.entitytemplate)
+
+-- TEXT:
+--- 00685B218981D8CB (agent47_head_02)
+---- 004BB63E553AAE05 (agent47_head_02_mip)
+--- head_47_s3_specular
+--- head_47_s3_normal
+
+
+TEMP: (BLACK BRUISE)
+- 
